@@ -22,4 +22,12 @@ Customize the app's appearance with a toggle between dark and light mode, based 
 Take control of your data with an option to clear all information stored in the app.
 SugarSense combines functionality with clean, intuitive design, offering seamless navigation and effective data visualizations to help users stay on top of their health and make informed decisions with confidence.
 
+# Screenshots:
+<img width="233" height="497" alt="image" src="https://github.com/user-attachments/assets/d0b7a263-b95c-486b-b5d5-b41f903aa830" />
+<img width="233" height="500" alt="image" src="https://github.com/user-attachments/assets/6bd72943-5fb2-46e5-9e6a-35b5e2945ba8" />
+<img width="238" height="502" alt="image" src="https://github.com/user-attachments/assets/c9119988-e414-4bef-af1c-7516ee3dfc03" />
+<img width="231" height="508" alt="image" src="https://github.com/user-attachments/assets/8c730557-70e8-4c14-b287-99db54033a88" />
+
+
+
 
